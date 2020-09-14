@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """An enhanced version of the 'echo' cmd line utility."""
 
-__author__ = "Jasmyne Ford"
+__author__ = "Jasmyne Ford w/h/f study hall and classmates"
 
 
 import sys
